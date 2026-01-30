@@ -59,8 +59,6 @@ Execute the binary to run kernels and log performance metrics.
 bin\cuda_mem_bench.exe --input data/dataset.txt --outdir outputs --mode all --variant both --repeats 10000
 ```
 
-### ⚙️ Command Line Interface (CLI)
-
 ## 📊 Analytics & Visualization
 Post-process the raw timing logs to generate statistical reports and graphs.
 
